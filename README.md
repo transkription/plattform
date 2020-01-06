@@ -10,7 +10,7 @@ Dafür erfolgt die Anbindung von [Kaldi-ASR](https://github.com/kaldi-asr/kaldi)
 
 Dieses Projekt wurde im Rahmen des Prototypefund im Zeitraum 1. März bis 31. August 2019 vom Bundesministerium für Bildung und Forschung gefördert.
 
-![BMBF Logo](assets/BMBF_gefoerdert_2017_en.svg "BMBF Logo")
+![BMBF Logo](BMBF_gefoerdert_2017_en.svg "BMBF Logo")
 
 ## Aufnahmen, Transkripte und Modelle unter freien Lizenzen
 
