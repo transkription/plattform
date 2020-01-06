@@ -1,6 +1,6 @@
 ### Release in Kürze!
 
-In dem Projekt wird eine Webanwendung entwickelt, mit der Menschen gemeinsam manuell Sprachaufnahmen verschriftlichen können. Dieser Prozess wird vereinfacht, indem die zu transkribierende Aufnahme automatisiert in kurze, sich an einzelnen Äußerungen (vergleichbar mit Sätzen in der Schriftsprache) orientierende Segmente zerlegt wird, Pausenlängen normalisiert und Bereiche mit Musik oder anderen nicht-sprachlichen Inhalten markiert werden, so dass diese schneller übersprungen werden können.
+In dem Projekt TRANSKRIPT wird eine Webanwendung entwickelt, mit der Menschen gemeinsam manuell Sprachaufnahmen verschriftlichen können. Dieser Prozess wird vereinfacht, indem die zu transkribierende Aufnahme automatisiert in kurze, sich an einzelnen Äußerungen (vergleichbar mit Sätzen in der Schriftsprache) orientierende Segmente zerlegt wird, Pausenlängen normalisiert und Bereiche mit Musik oder anderen nicht-sprachlichen Inhalten markiert werden, so dass diese schneller übersprungen werden können.
 
 Durch die Verwendung des kollaborativen Editors [Etherpad-Lite](https://github.com/ether/etherpad-lite) kann dabei einfach erfasst werden, welche Segmente von welchen Nutzer_innen verschriftlicht wurden bzw. welche Segmente noch keine Transkription besitzen. Korrekturen sind (farblich) erkennbar und die ältere Version wird von der neueren verdeckt, geht jedoch nicht verloren.
 
