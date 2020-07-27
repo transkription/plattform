@@ -1,4 +1,4 @@
-### Release in Kürze!
+#### Release-Datum: September - sorry für die lange Wartezeit! :-(
 
 In dem Projekt TRANSKRIPT wird eine Webanwendung entwickelt, mit der Menschen gemeinsam manuell Sprachaufnahmen verschriftlichen können. Dieser Prozess wird vereinfacht, indem die zu transkribierende Aufnahme automatisiert in kurze, sich an einzelnen Äußerungen (vergleichbar mit Sätzen in der Schriftsprache) orientierende Segmente zerlegt wird, Pausenlängen normalisiert und Bereiche mit Musik oder anderen nicht-sprachlichen Inhalten markiert werden, so dass diese schneller übersprungen werden können.
 
